@@ -1,5 +1,5 @@
 name: carbuterra
-description: "A new Flutter project."
+description: "Calculer les coûts, distances et émissions de CO2 liés à la consommation de carburant."
 publish_to: 'none'
 version: 1.0.0
 

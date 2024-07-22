@@ -215,7 +215,7 @@ class CarbuTerraHomePageState extends State<CarbuTerraHomePage> with SingleTicke
   Widget tabContents(int tabIndex) => SingleChildScrollView(
       child: paddingThis([
             SizedBox(
-              width: MediaQuery.of(context).size.width / 2,
+              width: MediaQuery.of(context).size.width / 1.5,
               child: TextField(
                   controller: tabIndex == 0
                       ? _kmParcourueController
